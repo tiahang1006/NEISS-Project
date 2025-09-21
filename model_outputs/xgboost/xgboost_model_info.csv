@@ -1,0 +1,2 @@
+model_type,accuracy,macro_f1,weighted_f1,roc_auc_macro,roc_auc_weighted,training_time_sec,n_features,n_classes,class_names
+XGBoost,0.5608637607236721,0.5288198822688355,0.555705578111733,0.8332109008110434,0.8145884368249131,2309.681449174881,60,5,Head/Neck/Face|LowerExt|Other/Multiple|Trunk|UpperExt

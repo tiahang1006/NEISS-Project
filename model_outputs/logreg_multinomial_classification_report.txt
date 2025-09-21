@@ -1,0 +1,11 @@
+                precision    recall  f1-score   support
+
+Head/Neck/Face       0.64      0.79      0.70    164669
+      LowerExt       0.46      0.38      0.41    106406
+Other/Multiple       0.70      0.56      0.62     27130
+         Trunk       0.43      0.40      0.41     71200
+      UpperExt       0.56      0.51      0.53    131706
+
+      accuracy                           0.56    501111
+     macro avg       0.56      0.53      0.54    501111
+  weighted avg       0.55      0.56      0.55    501111
