@@ -1,0 +1,28 @@
+NEISS Data Concatenation Report
+==================================================
+
+Total rows: 2,505,762
+Total columns: 20
+Output file: neiss_combined_2016_2024.csv
+
+Null/NA Values Analysis:
+------------------------------
+CPSC_Case_Number          |        0 (  0.0%)
+Treatment_Date            |        0 (  0.0%)
+Age                       |        0 (  0.0%)
+Sex                       |  338,262 ( 13.5%)
+Race                      |        0 (  0.0%)
+Other_Race                | 2,382,837 ( 95.1%)
+Body_Part                 |        0 (  0.0%)
+Diagnosis                 |        0 (  0.0%)
+Other_Diagnosis           | 2,051,304 ( 81.9%)
+Disposition               |        0 (  0.0%)
+Location                  |        0 (  0.0%)
+Fire_Involvement          |        0 (  0.0%)
+Product_1                 |        0 (  0.0%)
+Product_2                 |        0 (  0.0%)
+Narrative_1               |  720,382 ( 28.7%)
+Narrative_2               | 2,002,912 ( 79.9%)
+Stratum                   |        0 (  0.0%)
+PSU                       |        0 (  0.0%)
+Weight                    |        0 (  0.0%)
